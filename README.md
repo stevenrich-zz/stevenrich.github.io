@@ -2,5 +2,5 @@
 
 This is the site for my classes.
 
-Georgetown
-Virginia Tech
+Georgetown - Spring 2016
+Virginia Tech - Spring 2016

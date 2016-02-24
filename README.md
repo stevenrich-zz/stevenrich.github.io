@@ -1,6 +1,6 @@
 # stevenrich.github.io
 
-This is the site for my classes.
+This is the site for my classes and maybe, eventually, a personal site.
 
 - Northwestern - Fall 2015<br>
 - Georgetown - Spring 2016<br> 
